@@ -1,8 +1,6 @@
 # Y-ed-App
 A mobile application for the y-ed.in website for Y-East
 
-Certainly! Here's the entire content in Markdown format:
-
 ## Getting Started
 
 These instructions will help you run the project on your local machine for development and testing purposes.
